@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TemperatureConverter</string>
+    <string name="hint_temperatura">Digite a temperatura</string>
+    <string name="conversion_button">Converter</string>
+    <string name="fahrenheit_result">Temperatura em Fahrenheit: %.2f</string>
+    <string name="invalid_input">Valor inválido</string>
+</resources>
